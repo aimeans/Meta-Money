@@ -1,1 +1,3 @@
-TinDog Starting Files
+Meta Money
+
+This is a template website for an example startup.
